@@ -1,4 +1,4 @@
-# MERN Stack Online Store with Cryptocurrency Integration
+# MERN Stack Online Store with Cryptocurrency Integration (AitMed)
 
 Welcome to the OnlineStore repository! This project is an e-commerce web application built using the MERN stack (MongoDB, Express.js, React, and Node.js) that allows users to browse products, make purchases, and pay using cryptocurrency.
 
